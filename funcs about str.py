@@ -1,0 +1,10 @@
+text = "Aspania"
+print(text.lower())
+print(text.upper())
+print(text.isupper())
+print(text.islower())
+print(text.lower().islower())
+print(text[0])
+print(text.index('s'))
+print(text.replace('As','Ft'))
+print(text+' is project')
